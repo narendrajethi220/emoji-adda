@@ -52,10 +52,6 @@ Emoji Adda is a React.js application that serves as a handy "Wikipedia of Emoji,
 
 Feel free to contribute by submitting issues or pull requests. Your feedback and enhancements are always welcome!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Happy Emoji Exploring! 🌟😊
